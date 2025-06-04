@@ -1,0 +1,16 @@
+
+@prefix okh: <https://standards.okh.org/okh-ttl/1.0/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix : <#> .
+
+:project a okh:Project ;
+    dct:title "OHO Tricycle Cargo Bike" ;
+    dct:description "A human-powered tricycle designed for sustainable cargo transport, fully documented and open source." ;
+    dct:creator [ foaf:name "Abdelkhalek Boucetta" ] ;
+    dct:license <https://ohwr.org/project/cernohl/wikis/CERN-OHL-version-2> ;
+    okh:hasComponentList <components/BOM.csv> ;
+    okh:hasImage <images/front_view.jpg> ;
+    okh:hasDocumentation <documentation/Manual.pdf> ;
+    okh:hasCADModel <cad/frame.dxf> ;
+    okh:projectStatus okh:ProductionReady .

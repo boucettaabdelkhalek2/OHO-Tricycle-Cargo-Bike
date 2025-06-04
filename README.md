@@ -1,2 +1,11 @@
-# OHO-Tricycle-Cargo-Bike
-Open Source, Human-Powered Tricycle Cargo Bike documented using Open Know-How standards.
+# OHO Tricycle Cargo Bike
+
+This is an open-source, human-powered cargo tricycle bike designed for sustainable transport.
+
+## Features
+- Sturdy frame
+- Open-source design
+- Modular cargo space
+
+## License
+CERN-OHL v2.0
