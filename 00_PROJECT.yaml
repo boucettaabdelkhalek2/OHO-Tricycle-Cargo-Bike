@@ -1,0 +1,48 @@
+project:
+  name: OHO Tricycle Cargo Bike
+  version: 1.0
+  license: CERN-OHL-S v2
+  description: |
+    A sustainable, open-source tricycle designed for cargo transportation. Built for rural and urban logistics, this human-powered vehicle offers modularity, ease of fabrication, and environmental responsibility.
+
+  authors:
+    - name: Abdelkhalek Bousta
+      email: boucettaabdelk25@gmail.com
+      affiliation: Open Hardware Innovator
+
+  keywords:
+    - tricycle
+    - cargo bike
+    - sustainable transport
+    - open source hardware
+    - CNC fabrication
+
+  documentation-language: en
+  country-of-origin: MA
+  release-date: 2025-06-06
+
+  status: working-prototype
+
+  manufacturing:
+    methods:
+      - CNC
+      - welding
+      - laser-cutting
+    materials:
+      - steel
+      - wood
+      - recycled plastic
+    tools:
+      - angle grinder
+      - TIG/MIG welder
+      - 3D printer
+
+  files:
+    - path: 01_Design/
+    - path: 02_Fabrication/
+    - path: 03_Documentation/
+
+  images:
+    - 03_Documentation/images/design-sketch.jpg
+    - 03_Documentation/images/cad-3d-model.png
+    - 03_Documentation/images/final-assembly.jpg
