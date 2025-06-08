@@ -1,0 +1,18 @@
+format: OKH-LOSHv1.0 metadata: name: OHO Tricycle Cargo Bike description: >- An open-source, human-powered cargo tricycle designed for sustainable urban and rural transportation. Features a steel frame, three wheels, and customizable cargo carrier. Fully documented for local manufacturing. version: 1.0 license: CERN-OHL-S-2.0 authors: - name: Abdelkhalek Bousta email: boucettaabdelk25@gmail.com affiliation: Independent Maker, Morocco repository: https://github.com/bouchettaabdelkhalek2/OHO-Tricycle-Cargo-Bike documentation-language: ar keywords: - tricycle - cargo bike - open source hardware - sustainable transport - oho - termux manifest-language: en oho-id: oho-tricycle-cargo-bike
+
+files:
+
+path: cad/frame.dxf title: Frame CAD Drawing type: CAD
+
+path: cad/carrier.stl title: Carrier 3D Model type: 3D Model
+
+path: components/BOM.csv title: Bill of Materials type: Bill of Materials
+
+path: docs/Assembly-Instructions.md title: Assembly Instructions type: Documentation
+
+path: README.md title: Project Overview type: Documentation
+
+path: OHO-Wiki.md title: OHO Wiki Description type: Documentation
+
+
+
