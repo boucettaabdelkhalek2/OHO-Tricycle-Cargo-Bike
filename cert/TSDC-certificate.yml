@@ -1,0 +1,28 @@
+certificate:
+  id: TSDC-2025-06-23-001
+  type: Technical Sustainable Documentation Certificate
+  project:
+    name: OHO Tricycle Cargo Bike
+    version: 1.0.0
+    description: >
+      A fully documented open-source tricycle for sustainable cargo transport,
+      developed by Abdelkhalek Boucetta using digital fabrication tools and 
+      adhering to open hardware and environmental standards.
+    author:
+      name: Abdelkhalek Boucetta
+      contact: boucettaabdelkhalek25@gmail.com
+    release-date: 2025-06-23
+    repository: https://github.com/boucettaabdelkhalek2/OHO-Tricycle-Cargo-Bike
+    license: CERN-OHL-S-2.0
+    metadata-file: metadata.yml
+    wiki-page: https://github.com/boucettaabdelkhalek2/OHO-Tricycle-Cargo-Bike/wiki
+  verification:
+    documentation-status: complete
+    metadata-compliance: true
+    visual-assets-included: true
+    CAD-and-source-files: true
+    license-included: true
+    keywords: [cargo-bike, open-hardware, tricycle, sustainable-design]
+  issued-by: ChatGPT TSDC Generator
+  date-of-issue: 2025-06-23
+  language: en
