@@ -5,7 +5,7 @@
 * '''Developer:''' Abdelkhalek Bousta
 * '''Email:''' boucettaabdelk25@gmail.com
 * '''GitHub:''' https://github.com/boucettaabdelkhalek2/OHO-Tricycle-Cargo-Bike
-* '''License:''' CERN-OHL-P v2
+* '''License:''' CERN-OHL-S v2
 * '''Project Type:''' Open Source Hardware
 * '''Status:''' Fully Documented and Replicable
 * '''Application Field:''' Urban Mobility, Sustainable Transport, Local Manufacturing
