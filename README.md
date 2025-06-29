@@ -71,7 +71,7 @@ This project is licensed under the **CERN-OHL-S v2** (or similar), allowing free
 
 ## 🌐 Platform Integration
 - Will be linked with: [https://www.oho.wiki](https://www.oho.wiki)
-- GitHub Repository: `https://github.com/bouchettaabdelkhalek2/OHO-Tricycle-Cargo-Bike`
+- GitHub Repository: `https://github.com/boucettaabdelkhalek2/OHO-Tricycle-Cargo-Bike`
 
 ---
 
