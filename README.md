@@ -76,8 +76,8 @@ This project is licensed under the **CERN-OHL-S v2** (or similar), allowing free
 ---
 
 ## 💬 Contact
-Project initiated by: **Abdelkhalek Bousta**  
-Email: boucettaabdelk25@gmail.com
+Project initiated by: **Abdelkhalek Boucetta**  
+Email: boucettaabdelkhalek25@gmail.com
 
 ---
 
