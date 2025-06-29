@@ -2,8 +2,8 @@
 
 == General Information ==
 * '''Project Name:''' OHO Tricycle Cargo Bike
-* '''Developer:''' Abdelkhalek Bousta
-* '''Email:''' boucettaabdelk25@gmail.com
+* '''Developer:''' Abdelkhalek Boucetta
+* '''Email:''' boucettaabdelkhalek25@gmail.com
 * '''GitHub:''' https://github.com/boucettaabdelkhalek2/OHO-Tricycle-Cargo-Bike
 * '''License:''' CERN-OHL-S v2
 * '''Project Type:''' Open Source Hardware
